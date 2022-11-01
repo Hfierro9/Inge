@@ -1,0 +1,73 @@
+@import 'attention_seekers/bounce.css';
+@import 'attention_seekers/flash.css';
+@import 'attention_seekers/pulse.css';
+@import 'attention_seekers/rubberBand.css';
+@import 'attention_seekers/shake.css';
+@import 'attention_seekers/headShake.css';
+@import 'attention_seekers/swing.css';
+@import 'attention_seekers/tada.css';
+@import 'attention_seekers/wobble.css';
+@import 'attention_seekers/jello.css';
+@import 'attention_seekers/heartBeat.css';
+
+
+html{
+    background-image: url("../img/thumb-1920-1148181.pngfondi.png");
+}
+
+.todo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    align-content: center;
+}
+
+.rpgui-content{
+    width: 70%;
+    position: relative;
+}
+
+.pollo{
+    display: flex;
+    padding-top: 5%;
+}
+
+p{
+    color: aqua;
+}
+
+.noce1{
+    padding-top: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+.noce2 p{
+    color: rgb(132, 0, 255);
+    text-align: center;
+}
+
+.inge{
+    display: block;
+    text-align: center;
+}
+
+.inge img{
+    border-radius: 50%;
+}
+
+.pastel{
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.pastel img{
+    width: 20%;
+}
+
+.finalito{
+    font-size: 25px;
+    color: chocolate;
+    text-align: center;
+}
